@@ -1,0 +1,6 @@
+{
+  "name": "Call Hub",
+  "description": "Random video calling app connecting strangers worldwide with country/gender/interest filters, real-time video, text chat, friend system, and safety tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
